@@ -744,6 +744,7 @@
 | Lenovo Yoga3 14                    |                                                              |                                                              |                                                              |
 | Lenovo Yoga3 11                    |                                                              |                                                              |                                                              |
 | Lenovo Yoga 13IKB                  | [链接](https://github.com/dragonflylee/Yoga13-Hackintosh)    |                                                              |                                                              |
+| Lenovo YOGA 14S 2021 IHU | [链接](https://github.com/EmiliaZhang/YOGA14S-Hackintosh) | | 雷电扩展坞+RX580 |
 | Lenovo Yoga 370                    | [链接](https://github.com/ouxuebo/YOGA370-clover) [链接](https://github.com/geoleonsh/clover-EFI-yoga-370) |                                                              |                                                              |
 | Lenovo Yoga X390 | [链接](https://github.com/Chitpixel/X390-OC-EFI) | | |
 |  |  | | |
@@ -1435,7 +1436,6 @@
 | MSI Z490i Unify                                   | [链接](https://github.com/kingwood77/MSI-Z490i-Unify-Hackintosh) [链接](https://github.com/wjz304/Hackintosh-EFI-MSI-Z490i-Unify)<br />[链接](https://github.com/diskerror/EFI) |                                                              | i5-10400 / RX580                                             |
 | MSI Z490 S01                                      | [链接](https://github.com/jdjxk/Hackintosh_OpenCore_Z490_i9_10850K_RX5500XT) |                                                              | 网卡推荐：[BCM94360CD](https://hackintosher.taobao.com)      |
 | MSI Z590i Unify                                   | [链接](https://github.com/malibio/msi-z590i-unify-opencore)  |                                                              |                                                              |
-| MSI MPG Z690 EDGE TI                              | [链接](https://github.com/igarashikenshin/Hackintosh-MSI-Z690-EDGE-TWD4_i7-12700K_RX6800XT) |                                                              |                                                              |
 | MSI Z97 Gaming 5                                  | [链接](https://github.com/plcharriere/Hackintosh/blob/master/Z97G5/) |                                                              | i5-4690K                                                     |
 
 ### Mini 迷你系列
