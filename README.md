@@ -883,6 +883,7 @@
 | 机型名称                      | 发布地址                                                     | 教程地址 | 备注 |
 | ----------------------------- | ------------------------------------------------------------ | -------- | ---- |
 | Toshiba B654L                 | [链接](https://github.com/yxb2018/toshiba-B654L-clover-efi)  |          |      |
+| Toshiba SatelliteP50C         | [链接](https://github.com/alexaib2002/Toshiba-SatelliteP50C_OpenCore) |          |      |
 | Toshiba L55W C5320            | [链接](https://github.com/martinmenchon/Hackintosh-Toshiba-L55W-C5320) |          |      |
 | Toshiba Satellite C805        | [链接](https://github.com/nan1jueze/TOSHIBA-C805-HM76-CLOVER-Hackintosh) |          |      |
 | Toshiba L840                  | [链接](https://github.com/dickymuliafiqri/EFI-Toshiba-L840-OC) |          |      |
