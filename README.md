@@ -131,6 +131,7 @@
 | Acer Nitro 5 AN515-52       | [链接](https://github.com/tien191web/Acer-Nitro5-AN515-52-EFIhackintosh) |                                                              |                                                  |
 | Acer Nitro 5 AN515-54       | [链接](https://github.com/jigarpatel7600/Acer-Nitro5)        |                                                              |                                                  |
 | Acer Nitro 5 AN515-54-51NJ | [链接](https://github.com/MKC-MKC/Acer_Nitro_5_AN515-54-51NJ-EFI-OpenCore) | | |
+| Acer Nitro 5 AN515-54-574Q | [链接](https://github.com/dmsNitro5/EFI-Acer-Nitro-5-AN515-54-574Q) | | |
 | Acer Nitro 5-an515-54-58CL  | [链接](https://github.com/YuryRegis/Acer-Nitro5-AN515-54-58CL) |                                                              |                                                  |
 | Acer nitro 5 an517-51       | [链接](https://github.com/SaeedHaidar/Nitro-5-an517-51-Hackintosh) |                                                              |                                                  |
 | Acer Predator Helios 300    | [链接](https://github.com/PruvostMaxime/Hackintosh-Predator-300) [链接](https://github.com/KadeReolance/Predator-Helios-300-OpenCore-0.6.2)<br />[链接](https://github.com/suryavamsi6/EFI_Acer_Predator_Helios_300) |                                                              |                                                  |
@@ -527,6 +528,7 @@
 | HP ProBook 440 G2                               |                                                              |                                                              |                                                              |
 | HP ProBook 440 G3                               | [链接](https://github.com/code0Artuh/EFI-Probook-440-G3)     |                                                              |                                                              |
 | HP Probook 440 G6                               | [链接](https://github.com/fjh1997/HP_Probook_440_G6_hackintosh) |                                                              |                                                              |
+| HP Probook 4440s                                | [链接](https://github.com/Shockshwat/Hackintosh-EFI-For-Hp-Probook-4440s) |                                                              |                                                              |
 | HP Probook 450 G5                               | [链接](https://github.com/Flashminat0/hp-probook-450-g5-big-sur-opencore-efi-files) |                                                              |                                                              |
 | HP ProBook 470 G1                               | [链接](https://github.com/mavethee/Hackintosh-OpenCore-HP-ProBook-470-G1) |                                                              |                                                              |
 | HP ProBook 650 G1                               | [链接](https://github.com/Hologos/hackintosh-hp-probook-650-g1) |                                                              |                                                              |
