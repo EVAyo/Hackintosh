@@ -242,6 +242,7 @@
 | Asus VivoBook Y5000U (X507UBR)    | [链接](https://github.com/lgs3137/ASUS_Y5000U_X507UBR-macOS) |                                                              |                                                              |
 | Asus W419LD                       | [链接](https://github.com/Yasin27878/Hackintosh-ASUS-W419LD) |                                                              |                                                              |
 | Asus X45C                         | [链接](https://github.com/ipang-dwi/efi-high-sierra)         |                                                              |                                                              |
+| Asus X450CA | [链接](https://github.com/haaaap/ASUS-X450CA-macOS-Big-Sur) | | |
 | Asus X450JB                       | [链接](https://github.com/xiaoMGitHub/Asus_X450JB_Hackintosh) |                                                              |                                                              |
 | Asus X455LA                       | [链接](https://github.com/FajarBaiz/X455LA-EFI-HACKINTOSH)   |                                                              |                                                              |
 | Asus X455LJ                       | [链接](https://github.com/umarhadi/asus-x455lj-mojave)       |                                                              |                                                              |
@@ -318,6 +319,7 @@
 | Dell Inspiron 5458 | [链接](https://github.com/icarolim/efi-Dell5458-OC-Monterey) | | |
 | Dell Inspiron 5459                         | [链接](https://github.com/lzhoang2601/Dell-Insprison-5459-Hackintosh) [链接](https://github.com/juanxcueva/Dell-inspiron-5459-EFI) |                                                              |                                                              |
 | Dell Inspiron 5488                         | [链接](https://github.com/daggeryu/DELL-inspiron-5488)       |                                                              |                                                              |
+| Dell Inspiron 5490 | [链接](https://github.com/TheNewEraBrad/Dell-Inspiron-14-5490-OpenCore) | | |
 | Dell Inspiron 5491 2in1                    | [链接](https://github.com/Speeedo83/Dell-Inspiron-5491-2in1-Hakintosh) |                                                              |                                                              |
 | Dell Inspiron 5493 / 5593 | [链接](https://github.com/xzz024/OC7.1-EFI-For-Dell-5593-Bigsur) | | |
 | Dell Inspiron 5537                         | [链接](https://github.com/thedeadfish59/Dell_Inspiron_5537-Hackintosh) |                                                              |                                                              |
@@ -409,6 +411,7 @@
 | Dell Vostro 3568                           | [链接](https://github.com/hsed-sys/vostro-3568-clover-efi)   |                                                              |                                                              |
 | Dell Vostro 3578                           | [链接](https://github.com/ABCDFAS/dell-vostro-3578-hackintosh-clover-efi) [链接](https://github.com/ABCDFAS/hackintosh-vostro-3578-opencore-EFI) |                                                              |                                                              |
 | Dell Vostro 3667 | [链接](https://github.com/Goodmorningmm/Hacktonish-Vostro-3667-EFI) | | |
+| Dell Vostro 3681 | [链接](https://github.com/jch12138/Vostro_3681_EFI) | | |
 | Dell Vostro 5370                           | [链接](https://github.com/hellmonky/Hackintosh/tree/master/dell-vostro-5370) |                                                              |                                                              |
 | Dell Vostro 5471                           | [链接](https://github.com/Lorys89/DELL_VOSTRO_5471)          |                                                              |                                                              |
 | Dell Vostro 5401 (ICE-LAKE)                | [链接](https://github.com/Lorys89/Dell_Vostro_5401-ICE-LAKE) |                                                              |                                                              |
@@ -519,6 +522,7 @@
 | HP Omen AX205                                   | [链接](https://github.com/donxp/HP-OMEN-AX205-HACKINTOSH)    |                                                              |                                                              |
 | Hp Omen Ce020tx                                 | [链接](https://github.com/thanatath/hp-omen-ce020tx-mojave-osx) |                                                              |                                                              |
 | HP Omen Laptop 15-ce0xx                         | [链接](https://github.com/t-shao/-Hackintosh-OMEN_by_HP_Laptop_15-ce0xx) |                                                              |                                                              |
+| HP 240 G8                                       | [链接](https://github.com/Disk8/HP-240-G8-Hackintosh-Monterey-OC-0.7.8-EFI) |                                                              |                                                              |
 | HP 250 G2                                       | [链接](https://github.com/MrPotatoBobx/hp250g2opencore)      |                                                              |                                                              |
 | HP 250 G6                                       | [链接](https://github.com/snajdovski/HP-250-G6-Mojave-EFI) [链接](https://github.com/Baio1977/HP-250-G6-Kabylake) |                                                              |                                                              |
 | HP 348 G5                                       | [链接](https://github.com/zsakvo/hp-348-g5-hackintosh)       |                                                              |                                                              |
