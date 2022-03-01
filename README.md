@@ -38,16 +38,19 @@
 
 更新日期：
 
-- 2021年12月16日
+- 2022年3月1日
   - 新增机型：
-    - Acer Aspire 3 A315-56
-    - Asus TP412FA
-    - LG Gram 14Z90N
-    - Samsung NT350XCR-AD5AS
-    - HP Pavilion15 au146TX 
-    - Gigabyte Z590 Vision D
-    - Gigabyte Z590M Gaming X 
-    - Gigabyte Z690I Aorus
+    - Asus X450CA
+    - Dell Inspiron 5490
+    - Dell Vostro 3681
+    - HP 240 G8
+    - Acer Nitro 5 AN515-54-574Q
+    - HP Probook 4440s
+    - Toshiba SatelliteP50C
+    - Lenovo YOGA 14S 2021 IHU
+    - Dell Latitude 3410
+    - MSI MPG Z690 EDGE TI
+    - MSI Z590i Unify
 
 完整的更新日志：[更新日志](./Changelog.md)
 
