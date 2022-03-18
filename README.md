@@ -225,6 +225,7 @@
 | Asus UX461UA                      | [链接](https://github.com/UdaraWanasinghe/Asus-UX461UA-OpenCore-EFI) |                                                              |                                                              |
 | Asus UX501JW                      | [链接](https://github.com/firefly917/Hackintosh_Asus-UX501JW_Mojave) |                                                              |                                                              |
 | Asus VivoBook 15 X510UQ / S5100UQ | [链接](https://github.com/wishayne/hackintosh-Asus-S5100UQ-X510UQ) |                                                              |                                                              |
+| Asus Vivobook S13 S330FA | [链接](https://github.com/parinovK/MacOS-Catalina_Vivobook-S13_S330FA_Clover) | | |
 | Asus Vivobook S13 S330FN          | [链接](https://github.com/deniro98/s330fn)                   |                                                              |                                                              |
 | Asus X441U                        | [链接](https://github.com/Bach0409/EFI-Asusx441u)            |                                                              | 华硕 adol I330FN                                             |
 | Asus X441UA-GA348T | [链接](https://github.com/nu99etz/ASUS-X441UA-GA348T-Hackintosh-EFI-OpenCore) | |  |
@@ -1152,7 +1153,7 @@
 | Asus TUF GAMING B460M-PRO | [链接](https://github.com/SourceLink/ASUS-TUF-GAMING-B460M-PRO-RX570-Hackintosh-Opencore) | |  |
 | Asus ROG STRIX B560-I GAMING WIFI | [链接](https://github.com/NOXCIS/OpenCore-ROG-B560I) | | |
 | Asus TUF Gaming B560M PLUS | [链接](https://github.com/JoveYu/ASUS-TUF-GAMING-B560M-PLUS-WIFI-EFI) | |  |
-| Asus TUF Gaming B660M PLUS | [链接](https://github.com/Xmingbai/ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh) | | 网卡推荐：[BCM94360CD](https://hackintosher.taobao.com) |
+| Asus TUF Gaming B660M PLUS | [链接](https://github.com/Xmingbai/ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh) [链接](https://github.com/dclive/B660M-HDV---i5-1200F) | | 网卡推荐：[BCM94360CD](https://hackintosher.taobao.com) |
 | Asus H110M-C2 MoBo | [链接](https://github.com/mrmac189/OpenCore-H110M-HD530) | |  |
 | Asus H170M-PLUS | [链接](https://github.com/riccardo4zan/Opencore-EFI) | | 网卡推荐：[BCM94360CD](https://hackintosher.taobao.com) |
 | Asus H370i                     | [链接](https://github.com/HuaHuaY/Hackintosh-H370i-Big-Sur-EFI) |          |                                                              |
