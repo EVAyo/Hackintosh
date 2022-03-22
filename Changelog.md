@@ -536,27 +536,30 @@
    - 新增机型：
 
       - Asus X450CA
-
-      - Dell Inspiron 5490
-
+   - Dell Inspiron 5490
       - Dell Vostro 3681
-
-      - HP 240 G8
-
+   - HP 240 G8
       - Acer Nitro 5 AN515-54-574Q
-
-      - HP Probook 4440s
-
+   - HP Probook 4440s
       - Toshiba SatelliteP50C
-
-      - Lenovo YOGA 14S 2021 IHU
-
+   - Lenovo YOGA 14S 2021 IHU
       - Dell Latitude 3410
-
-      - MSI MPG Z690 EDGE TI
-
+   - MSI MPG Z690 EDGE TI
       - MSI Z590i Unify
 
-         
+- 2022年3月22日
 
+   - 新增机型：
+     - ZOTAC MAGNUS ONE ZBOX-ECM73070C
+     - Asus Vivobook S13 S330FA
+     - Acer XC 885
+     - HP Pavilion 14-ce3xxx
+     - Acer Swift 3 SF315-51-518S
+     - Asus B150 Pro Gaming
+     - Acer Aspire E5-575G-39QW
+     - HP Z220 SFF Workstation
+     - Dell Inspiron 3542
+     - HP Zbook G7 Power
+
+    
 

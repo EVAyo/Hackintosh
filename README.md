@@ -38,19 +38,18 @@
 
 更新日期：
 
-- 2022年3月1日
+- 2022年3月22日
   - 新增机型：
-    - Asus X450CA
-    - Dell Inspiron 5490
-    - Dell Vostro 3681
-    - HP 240 G8
-    - Acer Nitro 5 AN515-54-574Q
-    - HP Probook 4440s
-    - Toshiba SatelliteP50C
-    - Lenovo YOGA 14S 2021 IHU
-    - Dell Latitude 3410
-    - MSI MPG Z690 EDGE TI
-    - MSI Z590i Unify
+    - ZOTAC MAGNUS ONE ZBOX-ECM73070C
+    - Asus Vivobook S13 S330FA
+    - Acer XC 885
+    - HP Pavilion 14-ce3xxx
+    - Acer Swift 3 SF315-51-518S
+    - Asus B150 Pro Gaming
+    - Acer Aspire E5-575G-39QW
+    - HP Z220 SFF Workstation
+    - Dell Inspiron 3542
+    - HP Zbook G7 Power
 
 完整的更新日志：[更新日志](./Changelog.md)
 
@@ -123,6 +122,7 @@
 | Acer Aspire E1-571G         | [链接](https://github.com/DiogoSilva48/Acer-E1-571G-Hackintosh) |                                                              |                                                  |
 | Acer Aspire E1-572G         | [链接](https://github.com/TonyStark10006/Acer_E1-572G_Hackintosh_EFI) |                                                              |                                                  |
 | Acer Aspire E5-575G         | [链接](https://github.com/Davone98/Hackintosh-Acer-Aspire-E5-575G) |                                                              |                                                  |
+| Acer Aspire E5-575G-39QW | [链接](https://github.com/trilong0610/EFI-Acer-E5-575G-39QW-Clover) | | |
 | Acer Aspire V 15 V5-591G    | [链接](https://github.com/kushwavez/acer-aspire-v5-591g-clover-efi) |                                                              |                                                  |
 | Acer Aspire V3-371 | [链接](https://github.com/WhosPix3l/Aspire-V3-EFI) | | |
 | Acer Aspire VN7-591G        | [链接](https://github.com/zhangyan56/acer-vn7-591G-i5-4210H-macos-10.15.5-EFI) |                                                              |                                                  |
@@ -139,7 +139,7 @@
 | Acer nitro 5 an517-51       | [链接](https://github.com/SaeedHaidar/Nitro-5-an517-51-Hackintosh) |                                                              |                                                  |
 | Acer Predator Helios 300    | [链接](https://github.com/PruvostMaxime/Hackintosh-Predator-300) [链接](https://github.com/KadeReolance/Predator-Helios-300-OpenCore-0.6.2)<br />[链接](https://github.com/suryavamsi6/EFI_Acer_Predator_Helios_300) |                                                              |                                                  |
 | Acer Predator G3-571        | [链接](https://github.com/geminis3/Predator-G3-571-OC)       |                                                              |                                                  |
-| Acer Swift 3                | [链接](https://github.com/FallenChromium/Acer-Swift3-2018-hackintosh) |                                                              | SF315-51-518S                                    |
+| Acer Swift 3 SF315-51-518S | [链接](https://github.com/FallenChromium/Acer-Swift3-2018-hackintosh) |                                                              | SF315-51-518S                                    |
 | Acer Swift 3 52G            | [链接](https://github.com/geekcjj/Clover-Acer-Swift3-SF315-52G) |                                                              | Acer-Swift3-SF315-52G                            |
 | Acer Swift 3 SF314-54       | [链接](https://github.com/diepeterpan/Acer-Swift-3-SF314-54-2018-MacOS-Big-Sur) |                                                              |                                                  |
 | Acer Swift 3 SF314-55G      | [链接](https://github.com/cjtim/SF314-55G-hackintosh) [链接](https://github.com/cjtim/SF314-55G-hackintosh) |                                                              | Acer Swift 3 2019 SF314-55G                      |
@@ -308,6 +308,7 @@
 | Dell Inspriron 3459 | [链接](https://github.com/DUr3n/Dell-3459-OC) | | |
 | Dell Inspriron 14 3467                     | [链接](https://github.com/b4iterdev/opencore-dell-inspriron-14-3467) |                                                              |                                                              |
 | Dell Inspiron 3481                         | [链接](https://github.com/M3ggy-NX/Dell-Inspiron-3481-EFI-Opencore) |                                                              |                                                              |
+| Dell Inspiron 3542 | [链接](https://github.com/mac-os-x/Opencore-Dell-Inspiron-3542-Monterey-12.3-EFI) | | |
 | Dell Inspiron 3543                         | [链接](https://github.com/meikeeit/Hackintosh_Dell3543)      |                                                              |                                                              |
 | Dell Inspiron 3559                         | [链接](https://github.com/WenQinghua/dell-Inspiron-3559-EFI) |                                                              |                                                              |
 | Dell Inspiron 15 3567                      | [链接](https://github.com/osx86-ijb/Dell-Inspiron-15-3567-7th-Gen-Core-i3-7100u-macOS-BigSur) |                                                              |                                                              |
@@ -556,6 +557,7 @@
 | HP EliteBook 1040 G4                            | [链接](https://github.com/AustinBoath/HP-EliteBook-1040-G4-Hackintosh) |                                                              |                                                              |
 | HP prodesk 600g1-DM/800g1-DM                    | [链接](https://github.com/LomotHo/Hackintosh-600g1-DM-4670t) |                                                              |                                                              |
 | HP Pavilion 14-CE2072NL                         | [链接](https://github.com/1alessandro1/HP-Pavilion-CE2072NL-macOS/blob/main/README.md) |                                                              |                                                              |
+| HP Pavilion 14-ce3xxx                           | [链接](https://github.com/MuziShaoxing/HP-Pavilion-Laptop-14-ce3xxx-1035G1) |                                                              | 1035G1                                                       |
 | HP Pavilion 14-v011tx                           | [链接](https://github.com/PangeranWiguan/HP-Pavilion-14-v011tx-Opencore-EFI) |                                                              |                                                              |
 | HP Pavilion 15an051dx                           | [链接](https://github.com/Marcowerjr/macOS-HP-Pavilion-15an051dx) |                                                              |                                                              |
 | HP Pavilion 15 au028ur                          | [链接](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U/blob/master/docs/ENG/README.md) |                                                              |                                                              |
@@ -1135,6 +1137,7 @@
 | ------------------------------ | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
 | Asus B85 Pro Gamer             | [链接](https://github.com/xl120022/ASUS-B85PG-E3-RX570-MAC10.15) |          | e3-1231v3 / rx570                                            |
 | Asus B85MG | [链接](https://github.com/samleong123/i5-4570-B85MG-HD4600-BigSur-Opencore-EFI) | | i5-4570 |
+| Asus B150 Pro Gaming | [链接](https://github.com/tiagorcogo/EFI-ASUSB150-HACKINTOSH) | |  |
 | Asus P8H61-M LX3 | [链接](https://github.com/thincen/H61-i3-3220-GTX650-EFI) | |  |
 | Asus P8P67 EVO | [链接](https://github.com/Qraxin/Asus-P8P67-OpenCore-EFI) | | i7-2600k |
 | ASUS Chromebox CN62            | [链接](https://github.com/waldoxhm/asus-chromebox-cn62-guado-hackintosh) |          |                                                              |
@@ -1358,7 +1361,9 @@
 | HP Z600 Workstation          |                                                              |          | Mac-Mini-Killer   |
 | HP Z620 Workstation          | [链接](https://github.com/d4vinder/HP-Z620-Hackintosh-macOS-Catalina) [链接](https://github.com/mokiii/HP-Z620-Hackintosh-macOS_10.13-10.15) |          |                   |
 | HP ZBook G1	|[链接](https://github.com/bangmaple/HP-ZBook-G1-OpenCore)	|		|		|
+| HP Zbook G7 Power	|[链接](https://github.com/PrashantSingh5946/ZbookG7PowerOpencore)	|	|	|
 | HP EliteBook 850G3	|[链接](https://github.com/lucasrequile/OCEliteBook850G3)	|		|		|
+| HP Z220 SFF Workstation	|[链接](https://github.com/clibing/EFI-z220sff-OpenCore)	|	|	|
 | HP Z230 SFF Workstation	|[链接](https://github.com/keczejo/HP-Z230-Hackintosh)	|		|		|
 | HP ZHAN 99 Pro G1 MT         | [链接](https://github.com/Z-fly/HP-ZHAN-99-Pro-G1-MT-Hackintosh) |          | UHD630            |
 
@@ -1466,6 +1471,8 @@
 | TinyMonster ECO                 | [链接](https://github.com/daliansky/TinyMonsterECO-Hackintosh) |          | 小兵长期维护机型<br />网卡推荐：[BCM94360Z4](https://hackintosher.taobao.com) |
 | TinyMonster PRO                 | [链接](https://github.com/daliansky/TinyMonsterPro-Hackintosh) |          | 小兵长期维护机型<br />网卡推荐：[BCM94360Z4](https://hackintosher.taobao.com) |
 | ZOTAC MAGNUS ONE ZBOX-ECM73070C | [链接](https://github.com/farcop/hackintosh)                 |          | 小兵长期维护机型<br />网卡推荐：[BCM94360Z3](https://hackintosher.taobao.com) |
+
+[![morefine S500](https://images.daliansky.net/d/xD0Ar91B/blog/S500/ScreenShots/S5003.png?download=1)](https://hackintosher.taobao.com)
 
 ### 台式机其它机型
 
@@ -1611,9 +1618,15 @@
 其他推荐 :
 安装和安装后支持小组 [https://t.me/HackintoshLife_it](https://t.me/HackintoshLife_it)
 
+## 淘宝店铺
+
+[黑果小兵的部落阁](https://hackintosher.taobao.com)
+
 ## 微信扫一扫，订阅/直达【黑果小兵的部落阁】
 
 ![WeChat](https://blog.daliansky.net/uploads/WeChatandShop.png)
+
+
 
 ## 关于打赏
 
